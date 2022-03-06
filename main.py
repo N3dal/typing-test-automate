@@ -37,7 +37,7 @@ def clear():
 clear()
 
 
-def typing(msg: str, period: int = 250e-3):
+def typing(msg: str, delay: int = 250e-3):
     """this function will type the msg using,
     the physical keyboard."""
 
@@ -46,7 +46,7 @@ def typing(msg: str, period: int = 250e-3):
 
     for char in msg:
         keyboard.press(char)
-        sleep(period)
+        sleep(delay)
 
 
 def main():
