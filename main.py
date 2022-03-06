@@ -3,7 +3,7 @@
 # simple script for automate typing tests,
 # in test sites.
 # cheating in sites like typing racer.
-# note the website that i use for this is:
+# note the website that i use for this script:
 # "https://www.typingpal.com/en/typing-test"
 #
 #
