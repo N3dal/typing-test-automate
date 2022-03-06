@@ -19,6 +19,7 @@
 from os import system
 from os import name as os_name
 from pynput.keyboard import Key, Controller
+from time import sleep
 
 
 def clear():
@@ -37,7 +38,9 @@ clear()
 
 
 def main():
-    pass
+
+    # create the main Keyboard controller object.
+    keyboard = Controller()
 
 
 if __name__ == "__main__":
