@@ -18,6 +18,7 @@
 
 from os import system
 from os import name as os_name
+from pynput.keyboard import Key, Controller
 
 
 def clear():
