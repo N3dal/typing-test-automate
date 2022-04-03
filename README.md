@@ -3,4 +3,4 @@ simple script for automate typing speed test on [TypingPal](https://www.typingpa
 
 **Script View**
 
-[screenrecord_01](/pictures/screenrecord_01.gif)
+![screenrecord_01](/pictures/screenrecord_01.gif)
